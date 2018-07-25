@@ -3,4 +3,6 @@
   <groupId>com.faac</groupId>
   <artifactId>bla-bla</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties></properties>
 </project>
